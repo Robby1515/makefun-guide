@@ -12,9 +12,9 @@ to your own Solana wallet.
 
 This guide walks a complete newcomer from no account to a submitted entry and a claimed prize.
 
-> **Starting now?** Sign up through my referral link: [https://make.fun/r/s6pnv4vg](https://make.fun/r/s6pnv4vg)
+> **Starting now?** Sign up through my referral link: [https://make.fun/r/mp88cy7s](https://make.fun/r/mp88cy7s)
 >
-> My referral code is `s6pnv4vg`. Signing up through a referral link costs you nothing; it credits the person
+> My referral code is `mp88cy7s`. Signing up through a referral link costs you nothing; it credits the person
 > who sent you when you take part.
 
 ## Contents
@@ -67,7 +67,7 @@ Three facts shape everything below:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/s6pnv4vg](https://make.fun/r/s6pnv4vg) and choose **Sign in**.
+1. Open [https://make.fun/r/mp88cy7s](https://make.fun/r/mp88cy7s) and choose **Sign in**.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. Signing in with a wallet sends no
    transaction and costs nothing.
 3. Open your profile from the avatar at the top right and fill in a username, picture and short bio.
@@ -275,7 +275,7 @@ it. When someone signs up while your code is held and takes part, you earn refer
 reward is reviewed for at least a day before it can be claimed, and only genuine new accounts that actually
 participate count — your own accounts, shared-network signups and bots never do.
 
-If this guide got you started, signing up through [my link](https://make.fun/r/s6pnv4vg) — code `s6pnv4vg` —
+If this guide got you started, signing up through [my link](https://make.fun/r/mp88cy7s) — code `mp88cy7s` —
 is the easiest thank-you there is.
 
 ## Questions
@@ -328,4 +328,4 @@ transcripts of an entry are shown only to you and the organisers.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/s6pnv4vg · code `s6pnv4vg`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/mp88cy7s · code `mp88cy7s`</sub>
